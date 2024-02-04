@@ -51,11 +51,11 @@ section>p+p+p
 Expands to
 
 ```html
-<nav>
-  <ul>
-    <li></li>
-  </ul>
-</nav>
+<sectio>
+  <p></p>
+  <p></p>
+  <p></p>
+</sectio>
 ```
 
 ### Climb Up: ^
